@@ -15,24 +15,23 @@ import com.poc.utils.Utils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
 
 import java.io.File;
+import java.time.Duration;
 
 public class BaseTest extends Utils {
 
-    public WebDriver driver = null;
-    public String propFile = "resources/data.properties";
+    public static WebDriver driver = null;
+    public String propFile = "src" + File.separator + "test" + File.separator + "resources" + File.separator + "data.properties";
     public String[] config = null;
     public String[] sheet = {"testdata", "config"};
-
-    public String dataFile = "resources" + File.separator + "TestData.xlsx";
+    public String dataFile =  "src" + File.separator + "test" + File.separator + "resources" + File.separator + "TestData.xlsx";
 
     /*
      * @author:Navakanth Description: To launch browser & Maximize browser window
      */
     @BeforeMethod
-    public WebDriver driverInit() {
+    public void driverInit() {
         config = toReadExcelData(dataFile, sheet[1], "C1");
         if (config[2].equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
@@ -48,12 +47,13 @@ public class BaseTest extends Utils {
         } else {
             log("Please enter correct browser in config sheet");
         }
-
         driver.manage().window().maximize();
         log("Browser Window is Maximized");
-        return driver;
-    }
+        }
 
+public WebDriver getDriver(){
+        return driver;
+}
     /*
      * @author:Navakanth Description: To navigate to a specific url
      */
@@ -112,7 +112,7 @@ public class BaseTest extends Utils {
      */
 
     public void waitForEle(WebElement ele) {
-        WebDriverWait wait = new WebDriverWait(driver, 30);
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
         wait.until(ExpectedConditions.visibilityOf(ele));
 
         log("Waiting for Ele" + ele);

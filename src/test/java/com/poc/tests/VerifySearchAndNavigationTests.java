@@ -4,8 +4,6 @@ import com.poc.base.BaseTest;
 import com.poc.pages.HomePage;
 import com.poc.utils.Utils;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -67,6 +65,18 @@ public class VerifySearchAndNavigationTests extends BaseTest {
             homePage.navigatePages(4);
         }
     }
+    @Test
+    public void verifyTitle() {
+        {
+            homePage = navigateTo(config[1]);
+            homePage.waitForSearchFld();
+            String actual = homePage.getPageTitle()+"test";
+            String expected = config[3];
+
+            Assert.assertTrue(actual.equalsIgnoreCase(expected),"Title not matched");
+        }
+    }
+
 
 
 }
