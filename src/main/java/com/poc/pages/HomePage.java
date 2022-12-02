@@ -20,6 +20,10 @@ public class HomePage extends BasePage {
 	@FindBy(id = "gh-btn")
 	private WebElement searchBtn;
 	@FindBy(xpath = "//h1[@class= 'srp-controls__count-heading']")
+
+	private List<WebElement> acceptAllCookie;
+	@FindBy(id = "gdpr-banner-accept")
+
 	private WebElement searchConfirmMsg;
 
 	@FindBy(xpath = "//h1[@class= 'srp-controls__count-heading']//span")
@@ -126,7 +130,7 @@ public class HomePage extends BasePage {
 				prices.add(f);
 
 			} else {
-				log("No Price Details Found ");
+				addLog("No Price Details Found ");
 			}
 		}
 
@@ -141,13 +145,13 @@ public class HomePage extends BasePage {
 		for (int i = 0; i < (list.size() - 1); i++) {
 			if (Float.compare((list.get(i)), (list.get(i + 1))) == 0) {
 
-				log("For " + i + "---" + (list.get(i)) + " " + (list.get(i + 1)) + " both are equal");
+				addLog("For " + i + "---" + (list.get(i)) + " " + (list.get(i + 1)) + " both are equal");
 			} else if (Float.compare((list.get(i)), (list.get(i + 1))) < 0) {
 
-				log("For " + i + "---" + (list.get(i)) + " " + (list.get(i + 1)) + " is second is greater");
+				addLog("For " + i + "---" + (list.get(i)) + " " + (list.get(i + 1)) + " is second is greater");
 			} else {
 
-				log("For " + i + "---" + (list.get(i)) + " " + (list.get(i + 1)) + " is first is greater");
+				addLog("For " + i + "---" + (list.get(i)) + " " + (list.get(i + 1)) + " is first is greater");
 			}
 		}
 	}
@@ -185,38 +189,38 @@ public class HomePage extends BasePage {
 			List<WebElement> bidsList = driver.findElements(By.xpath(bids));
 
 			if (titleList.size() > 0) {
-				log(titleList.get(0).getText());
+				addLog(titleList.get(0).getText());
 			} else {
-				log("*** No Title Found ***");
+				addLog("*** No Title Found ***");
 			}
 
 			if (priceList.size() > 0) {
-				log(priceList.get(0).getText());
+				addLog(priceList.get(0).getText());
 			} else {
-				log("*** No Price Found ***");
+				addLog("*** No Price Found ***");
 			}
 
 			if (buyItNowList.size() > 0) {
-				log(buyItNowList.get(0).getText());
+				addLog(buyItNowList.get(0).getText());
 			} else {
-				log("*** No Buy details Found ***");
+				addLog("*** No Buy details Found ***");
 			}
 
 			if (postageList.size() > 0) {
-				log(postageList.get(0).getText());
+				addLog(postageList.get(0).getText());
 			} else {
-				log("*** No Postage details Found ***");
+				addLog("*** No Postage details Found ***");
 			}
 
 			if (bidsList.size() > 0) {
-				log(bidsList.get(0).getText());
+				addLog(bidsList.get(0).getText());
 			} else {
-				log("*** No bids Found ***");
+				addLog("*** No bids Found ***");
 			}
 
 			count = count + 1;
 		}
-		log("Items in the page : " + count);
+		addLog("Items in the page : " + count);
 	}
 
 	/*
@@ -245,7 +249,7 @@ public class HomePage extends BasePage {
 	public void navigatePages(int i) {
 
 		paginationOptions.get(i - 1).click();
-		log("Clicked on page number" + i);
+		addLog("Clicked on page number" + i);
 	}
 	/*
 	 * @author:Navakanth
@@ -253,7 +257,7 @@ public class HomePage extends BasePage {
 	 */
 	public void verifyPaginationDisplay() {
 		if (paginationOptions.size() > 0) {
-			log("Pagination is displayed");
+			addLog("Pagination is displayed");
 		}
 	}
 
@@ -265,4 +269,9 @@ public class HomePage extends BasePage {
 		waitForEle(searchBtn);
 	}
 
+	public void acceptCookies() {
+		if (acceptAllCookie.size() > 0) {
+			clickOn(acceptAllCookie.get(0));
+		}
+	}
 }

@@ -1,0 +1,431 @@
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:15.662 BaseTest:136 - chrome is launched
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:16.138 BaseTest:136 - Browser Window is Maximized
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:17.340 BaseTest:136 - Navigated to : https://www.ebay.co.uk/
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:17.482 BaseTest:136 - Page title is : Electronics, Cars, Fashion, Collectibles & More | eBay
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:17.490 BaseTest:141 - Actual Electronics, Cars, Fashion, Collectibles & More | eBay
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:17.491 BaseTest:141 - expected Electronics, Cars, Fashion, Collectibles & More | eBay
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:18.033 BaseTest:136 - Entered Rich Dad Poor Dad in [[ChromeDriver: chrome on MAC (f76ebad48507392d779dbadafa60c280)] -> id: gh-ac]
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:19.833 BaseTest:136 - Clicked on [[ChromeDriver: chrome on MAC (f76ebad48507392d779dbadafa60c280)] -> id: gh-btn]
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:20.002 BaseTest:136 - Pagination is displayed
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:21.516 BaseTest:136 - Clicked on page number2
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:23.088 BaseTest:136 - Clicked on page number3
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:24.756 BaseTest:136 - Clicked on page number4
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:26.481 BaseTest:136 - chrome is launched
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:26.908 BaseTest:136 - Browser Window is Maximized
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:27.850 BaseTest:136 - Navigated to : https://www.ebay.co.uk/
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:28.205 BaseTest:136 - Entered Rich Dad Poor Dad in [[ChromeDriver: chrome on MAC (9d9342b27363329429172fa6ff32f116)] -> id: gh-ac]
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.402 BaseTest:136 - Clicked on [[ChromeDriver: chrome on MAC (9d9342b27363329429172fa6ff32f116)] -> id: gh-btn]
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.557 BaseTest:141 - Results are greater than 1
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.691 BaseTest:136 - Rich Dad, Poor Dad: What the Rich Teach Their... by Lechter, Sharon L. Paperback
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.702 BaseTest:136 - £13.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.715 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.726 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.726 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.811 BaseTest:136 - Rich Dad Poor Dad What the Rich Teach Their Kids About Money (LOOK AT DESC)
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.822 BaseTest:136 - £0.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.833 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.882 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.882 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.968 BaseTest:136 - Rich Dad, Poor Dad 2: Cash Flow Quadrant - R... by Kiyosaki, Robert T. Paperback
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.980 BaseTest:136 - £6.49
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:30.992 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.019 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.024 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.131 BaseTest:136 - Rich Dad Poor Dad : What the Rich Teach Their Kids About Money 25th Anniversary
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.157 BaseTest:136 - £7.70
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.168 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.182 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.183 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.281 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids Abou... by Kiyosaki, Robert T.
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.293 BaseTest:136 - £7.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.304 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.314 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.315 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.394 BaseTest:136 - NEW LISTINGRich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.406 BaseTest:136 - £2.80
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.417 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.428 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.429 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.514 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money (desc)
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.525 BaseTest:136 - £2.50
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.536 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.547 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.547 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.627 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.639 BaseTest:136 - £8.72
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.649 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.661 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.662 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.745 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids Abou... by Kiyosaki, Robert T.
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.757 BaseTest:136 - £12.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.767 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.778 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.779 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.859 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About - Paperback / softback N
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.872 BaseTest:136 - £8.00
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.884 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.895 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.895 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.974 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids Abou... by Kiyosaki, Robert T.
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.985 BaseTest:136 - £2.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.985 BaseTest:136 - *** No Buy details Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:31.996 BaseTest:136 - + £3.35 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.007 BaseTest:136 - 0 bids ·
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.086 BaseTest:136 - Rich Dad Poor Dad Paperback Book! NEW CONDITION!
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.098 BaseTest:136 - £4.20
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.098 BaseTest:136 - *** No Buy details Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.111 BaseTest:136 - + £2.70 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.122 BaseTest:136 - 7 bids ·
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.204 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids by Robert T Kiyosaki New Book
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.215 BaseTest:136 - £9.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.226 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.236 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.237 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.343 BaseTest:136 - Rich Dad, Poor Dad: What the Rich Teach Their... by Lechter, Sharon L. Paperback
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.355 BaseTest:136 - £13.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.366 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.377 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.377 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.455 BaseTest:136 - NEW LISTINGRich Dad, Poor Dad: What the Rich Teach Their Kids About Money That the Poor and
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.467 BaseTest:136 - £5.66
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.478 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.488 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.488 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.567 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money .
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.578 BaseTest:136 - £8.73
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.590 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.602 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.602 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.680 BaseTest:136 - Rich Dad, Poor Dad by Robert T. Kiyosaki
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.691 BaseTest:136 - £8.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.702 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.713 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.713 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.794 BaseTest:136 - Rich Dad Poor Dad: What the Rich Te..., Kiyosaki, Rober
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.805 BaseTest:136 - £11.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.817 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.828 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.829 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.908 BaseTest:136 - Rich Dad, Poor Dad By Robert T. Kiyosaki
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.919 BaseTest:136 - £4.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.931 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.942 BaseTest:136 - + £3.05 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:32.943 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.023 BaseTest:136 - Rich Dad Poor Dad Part II - Rich Dad's Cash ... by Kiyosaki, Robert T. Paperback
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.034 BaseTest:136 - £12.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.045 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.056 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.056 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.143 BaseTest:136 - Rich Dad Poor Dad + The Psychology of Money - Best Combo (English, Paperback)
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.153 BaseTest:136 - £13.01
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.164 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.175 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.176 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.255 BaseTest:136 - Rich Dad Poor Dad book
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.266 BaseTest:136 - £14.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.291 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.305 BaseTest:136 - + £4.99 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.305 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.385 BaseTest:136 - Robert T. Kiyosaki 2 Books Collection Set Rich Dad Poor Dad, Fake Money, Teacher
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.396 BaseTest:136 - £13.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.406 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.417 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.417 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.495 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids by Robert T Kiyosaki New Book
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.506 BaseTest:136 - £15.28
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.518 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.529 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.530 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.610 BaseTest:136 - Rich Dad, Poor Dad: What the Rich Teach Their Kids Abou... by Lechter, Sharon L.
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.621 BaseTest:136 - £8.49
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.632 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.643 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.643 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.723 BaseTest:136 - Think And Grow Rich, Rich Dad Poor Dad, How to Own the World 3 Books Collection
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.735 BaseTest:136 - £22.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.769 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.782 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.782 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.862 BaseTest:136 - Rich Dad, Poor Dad, Robert T. Kiyosaki, Sharon L. Lechter, Used; Good Book
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.883 BaseTest:136 - £7.56
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.894 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.905 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.905 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.986 BaseTest:136 - Rich Dad Poor Dad : What the Rich Teach Their Kids About $ Money That the Poor
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:33.998 BaseTest:136 - £8.13
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.010 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.022 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.022 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.102 BaseTest:136 - Robert Kiyosaki WHO TOOK MY MONEY Robert Kiyosaki Book author Rich Dad Poor Dad
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.113 BaseTest:136 - £19.12
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.125 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.136 BaseTest:136 - + £8.86 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.136 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.218 BaseTest:136 - ROBERT T. KIYOSAKI Rich Dad Poor Dad ROBERT T. KIYOSAKI Cashflow Quadrant Pocket
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.229 BaseTest:136 - £28.68
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.242 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.254 BaseTest:136 - + £8.86 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.254 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.337 BaseTest:136 - Robert Kiyosaki RICH DAD Poor Dad SUCCESS STORIES Business Help Self Help
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.349 BaseTest:136 - £12.40
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.361 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.372 BaseTest:136 - + £8.86 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.372 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.456 BaseTest:136 - ROBERT T. KIYOSAKI Rich and Happy ROBERT KIYOSAKI Rich Dad Poor Dad Business
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.468 BaseTest:136 - £12.40
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.479 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.491 BaseTest:136 - + £13.30 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.492 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.572 BaseTest:136 - Rich Dad Poor Dad: rich kid smart kid Robert T. Kiyosaki audiobook on CD
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.583 BaseTest:136 - £18.00
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.594 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.605 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.605 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.686 BaseTest:136 - Rich Dad Poor Dad - 9781612681139
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.699 BaseTest:136 - £8.95
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.711 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.723 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.723 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.805 BaseTest:136 - Rich Dad Poor Dad: What The Rich Teach Their- 9781612680019, paperback, Kiyosaki
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.816 BaseTest:136 - £10.79
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.828 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.840 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.840 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.920 BaseTest:136 - Rich Dad, Poor Dad: What the Rich Teach Thei- 9780446611091, paperback, Kiyosaki
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.932 BaseTest:136 - £7.21
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.944 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.956 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:34.956 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.034 BaseTest:136 - Rich Dad Poor Dad What the Rich Teach Their Kids About Money That the Poor and M
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.045 BaseTest:136 - £10.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.057 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.068 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.068 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.149 BaseTest:136 - ROBERT KIYOSAKI The Cashflow Quadrant Sequel Rich Dad Poor Dad Sharon Lechter
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.161 BaseTest:136 - £12.40
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.174 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.186 BaseTest:136 - + £8.86 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.187 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.268 BaseTest:136 - Robert T. Kiyosaki CASHFLOW QUADRANT Rich Dad Poor Dad Guide Financial Freedom
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.280 BaseTest:136 - £12.40
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.292 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.304 BaseTest:136 - + £8.86 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.305 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.386 BaseTest:136 - Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money by Robert T. Kiyo
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.398 BaseTest:136 - £8.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.411 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.450 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.459 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.542 BaseTest:136 - (RICH DAD POOR DAD) BY KIYOSAKI, ROBERT T.[ AUTHOR ]Paperback 06-2011, Kiyosaki,
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.553 BaseTest:136 - £7.68
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.564 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.576 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.576 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.657 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.669 BaseTest:136 - £2.20
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.670 BaseTest:136 - *** No Buy details Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.682 BaseTest:136 - + £2.82 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.694 BaseTest:136 - 5 bids ·
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.775 BaseTest:136 - NEW LISTINGRich Dad Poor Dad: Was die Reichen ihren Kindern über Geld beibringen By Robert
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.787 BaseTest:136 - £8.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.800 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.811 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.812 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.893 BaseTest:136 - Robert T Kiyosaki 3 Books Collection Set (Rich Dad Poor Dad,Guide to Investing)
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.905 BaseTest:136 - £42.91
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.917 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.930 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:35.930 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.012 BaseTest:136 - Rich Dad Poor Dad:Rich, Poor, Middle Class, Kids, Parents, Teach, Money, Finance
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.025 BaseTest:136 - £4.00
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.025 BaseTest:136 - *** No Buy details Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.037 BaseTest:136 - + £4.45 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.049 BaseTest:136 - 0 bids ·
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.129 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids by Robert T Kiyosaki New Book
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.143 BaseTest:136 - £10.29
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.155 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.167 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.167 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.246 BaseTest:136 - Rich Dad Poor Dad by Robert T. Kiyosaki
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.258 BaseTest:136 - £10.67
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.270 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.283 BaseTest:136 - + £4.89 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.283 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.364 BaseTest:136 - Rich Dad Poor Dad : What the Rich Teach Their Kids About Money That the Poor and
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.376 BaseTest:136 - £10.30
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.388 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.389 BaseTest:136 - *** No Postage details Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.389 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.473 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money Middle Class Dont
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.485 BaseTest:136 - £9.00
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.496 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.508 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.508 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.590 BaseTest:136 - How to Own, Intelligent Investor, Rich Dad Poor Dad 3 Books Collection Set NEW
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.602 BaseTest:136 - £28.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.614 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.626 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.627 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.706 BaseTest:136 - Intelligent Investor & Rich Dad Poor Dad 2 Book Collection Set Finance NEW
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.717 BaseTest:136 - £23.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.729 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.741 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.741 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.823 BaseTest:136 - Rich Dad Poor Dad,Eat That Frog,Money Know More 4 Books Collection Set NEW
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.835 BaseTest:136 - £24.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.848 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.860 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.861 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.944 BaseTest:136 - Cashflow Quadrant Rich dad poor dad - In German
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.956 BaseTest:136 - £7.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.968 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.980 BaseTest:136 - + £2.70 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:36.980 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.063 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.076 BaseTest:136 - £100.00
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.089 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.102 BaseTest:136 - + £3.20 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.102 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.184 BaseTest:136 - Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money by Robert T. Kiyo
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.196 BaseTest:136 - £7.99
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.209 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.221 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.221 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.303 BaseTest:136 - Rich Dad Poor Dad: What The Rich Teach Their Kids About Money - That The Poor...
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.316 BaseTest:136 - £7.50
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.316 BaseTest:136 - *** No Buy details Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.329 BaseTest:136 - + £4.50 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.343 BaseTest:136 - 0 bids ·
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.422 BaseTest:136 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money Tha
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.434 BaseTest:136 - £70.56
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.445 BaseTest:136 - or Best Offer
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.457 BaseTest:136 - Free postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.457 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.541 BaseTest:136 - Combo Set of 3 Books(Psychology of Money+Rich Dad Poor Dad+Intelligent Investor)
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.555 BaseTest:136 - £31.58
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.569 BaseTest:136 - Buy it now
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.582 BaseTest:136 - + £16.66 postage
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.582 BaseTest:136 - *** No bids Found ***
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:37.583 BaseTest:136 - Items in the page : 58
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.491 BaseTest:136 - For 0---0.99 0.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.491 BaseTest:136 - For 1---0.99 2.2 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.491 BaseTest:136 - For 2---2.2 2.5 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.492 BaseTest:136 - For 3---2.5 2.75 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.492 BaseTest:136 - For 4---2.75 2.99 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.492 BaseTest:136 - For 5---2.99 3.33 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.492 BaseTest:136 - For 6---3.33 4.0 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.492 BaseTest:136 - For 7---4.0 4.2 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.493 BaseTest:136 - For 8---4.2 4.58 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.493 BaseTest:136 - For 9---4.58 4.99 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.493 BaseTest:136 - For 10---4.99 5.16 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.493 BaseTest:136 - For 11---5.16 5.55 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.493 BaseTest:136 - For 12---5.55 5.55 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.494 BaseTest:136 - For 13---5.55 5.66 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.494 BaseTest:136 - For 14---5.66 5.75 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.494 BaseTest:136 - For 15---5.75 5.85 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.494 BaseTest:136 - For 16---5.85 6.11 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.494 BaseTest:136 - For 17---6.11 6.49 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.495 BaseTest:136 - For 18---6.49 6.59 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.495 BaseTest:136 - For 19---6.59 7.0 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.495 BaseTest:136 - For 20---7.0 7.21 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.495 BaseTest:136 - For 21---7.21 7.21 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.495 BaseTest:136 - For 22---7.21 7.41 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.495 BaseTest:136 - For 23---7.41 7.5 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.496 BaseTest:136 - For 24---7.5 7.56 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.496 BaseTest:136 - For 25---7.56 7.56 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.496 BaseTest:136 - For 26---7.56 7.68 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.496 BaseTest:136 - For 27---7.68 7.7 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.496 BaseTest:136 - For 28---7.7 7.76 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 29---7.76 7.77 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 30---7.77 7.99 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 31---7.99 7.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 32---7.99 7.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 33---7.99 7.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 34---7.99 8.0 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.497 BaseTest:136 - For 35---8.0 7.91 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.498 BaseTest:136 - For 36---7.91 8.13 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.498 BaseTest:136 - For 37---8.13 8.28 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.498 BaseTest:136 - For 38---8.28 8.39 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.498 BaseTest:136 - For 39---8.39 8.4 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.498 BaseTest:136 - For 40---8.4 8.32 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.498 BaseTest:136 - For 41---8.32 8.32 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 42---8.32 8.33 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 43---8.33 8.49 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 44---8.49 8.61 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 45---8.61 8.72 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 46---8.72 8.73 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 47---8.73 8.9 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.499 BaseTest:136 - For 48---8.9 8.95 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.500 BaseTest:136 - For 49---8.95 8.86 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.500 BaseTest:136 - For 50---8.86 8.99 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.500 BaseTest:136 - For 51---8.99 8.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.500 BaseTest:136 - For 52---8.99 8.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.500 BaseTest:136 - For 53---8.99 9.0 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.501 BaseTest:136 - For 54---9.0 9.3 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.501 BaseTest:136 - For 55---9.3 9.31 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.501 BaseTest:136 - For 56---9.31 9.49 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:41.501 BaseTest:136 - For 57---9.49 9.44 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.257 BaseTest:136 - For 0---150.0 100.99 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.257 BaseTest:136 - For 1---100.99 100.0 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.257 BaseTest:136 - For 2---100.0 95.25 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 3---95.25 94.48 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 4---94.48 89.99 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 5---89.99 70.56 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 6---70.56 67.8 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 7---67.8 50.0 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 8---50.0 50.0 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.258 BaseTest:136 - For 9---50.0 50.0 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.259 BaseTest:136 - For 10---50.0 49.86 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.259 BaseTest:136 - For 11---49.86 44.24 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.259 BaseTest:136 - For 12---44.24 43.36 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.259 BaseTest:136 - For 13---43.36 42.91 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.259 BaseTest:136 - For 14---42.91 42.7 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.260 BaseTest:136 - For 15---42.7 35.0 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.260 BaseTest:136 - For 16---35.0 33.27 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.260 BaseTest:136 - For 17---33.27 32.27 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.260 BaseTest:136 - For 18---32.27 33.16 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.261 BaseTest:136 - For 19---33.16 32.91 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.261 BaseTest:136 - For 20---32.91 32.69 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.261 BaseTest:136 - For 21---32.69 32.29 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.261 BaseTest:136 - For 22---32.29 31.58 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.261 BaseTest:136 - For 23---31.58 31.58 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.262 BaseTest:136 - For 24---31.58 31.58 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.262 BaseTest:136 - For 25---31.58 31.58 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.262 BaseTest:136 - For 26---31.58 29.42 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.262 BaseTest:136 - For 27---29.42 28.68 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.262 BaseTest:136 - For 28---28.68 28.99 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.262 BaseTest:136 - For 29---28.99 28.86 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.263 BaseTest:136 - For 30---28.86 27.38 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.263 BaseTest:136 - For 31---27.38 26.99 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.263 BaseTest:136 - For 32---26.99 26.22 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.263 BaseTest:136 - For 33---26.22 26.05 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.263 BaseTest:136 - For 34---26.05 25.0 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.263 BaseTest:136 - For 35---25.0 25.0 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.264 BaseTest:136 - For 36---25.0 24.99 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.264 BaseTest:136 - For 37---24.99 24.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.264 BaseTest:136 - For 38---24.99 24.32 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.264 BaseTest:136 - For 39---24.32 24.29 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.264 BaseTest:136 - For 40---24.29 23.99 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.265 BaseTest:136 - For 41---23.99 23.99 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.265 BaseTest:136 - For 42---23.99 23.44 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.265 BaseTest:136 - For 43---23.44 22.99 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.265 BaseTest:136 - For 44---22.99 22.18 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.265 BaseTest:136 - For 45---22.18 22.3 is second is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.265 BaseTest:136 - For 46---22.3 22.06 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.266 BaseTest:136 - For 47---22.06 21.88 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.266 BaseTest:136 - For 48---21.88 21.85 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.266 BaseTest:136 - For 49---21.85 21.68 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.266 BaseTest:136 - For 50---21.68 21.67 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.266 BaseTest:136 - For 51---21.67 21.47 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.266 BaseTest:136 - For 52---21.47 21.47 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.267 BaseTest:136 - For 53---21.47 21.44 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.267 BaseTest:136 - For 54---21.44 21.41 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.267 BaseTest:136 - For 55---21.41 21.04 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.267 BaseTest:136 - For 56---21.04 21.04 both are equal
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:45.267 BaseTest:136 - For 57---21.04 20.37 is first is greater
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:46.733 BaseTest:136 - chrome is launched
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:47.161 BaseTest:136 - Browser Window is Maximized
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:48.240 BaseTest:136 - Navigated to : https://www.ebay.co.uk/
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:48.292 BaseTest:136 - Page title is : Electronics, Cars, Fashion, Collectibles & More | eBay
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:48.297 BaseTest:141 - Actual Electronics, Cars, Fashion, Collectibles & More | eBaytest
+[logs/2022-12-02-19-42-11 INFO ] 2022-12-02 19:42:48.298 BaseTest:141 - expected Electronics, Cars, Fashion, Collectibles & More | eBay
