@@ -34,4 +34,5 @@ In this POC below test cases are automated for Web application,
 1. Page Object Model
 2. TestNG
 3. HTML Reports (Extent Reports)
-4. Data reading from Excel, Properties files
+4. Data reading from Excel JSON and Properties files
+5. Integrated Log4J
