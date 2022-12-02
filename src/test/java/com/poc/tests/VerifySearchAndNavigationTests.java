@@ -6,12 +6,9 @@ import com.poc.utils.Utils;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
-import java.io.File;
 import java.util.List;
 
 public class VerifySearchAndNavigationTests extends BaseTest {
-
 
     public String[] sc_01 = null;
     Utils util = new Utils();
@@ -28,16 +25,12 @@ public class VerifySearchAndNavigationTests extends BaseTest {
     public void verifySearch() {
         homePage = navigateTo(config[1]);
         homePage.waitForSearchFld();
-        String actual = homePage.getPageTitle();
-        String expected = config[3];
-
-        Assert.assertTrue(actual.equalsIgnoreCase(expected));
+        homePage.acceptCookies();
         homePage.searchProduct(sc_01[1]);
-
         Integer expected_matches = util.getNum(sc_01[2]);
         Integer actual_matches = homePage.matchingResults();
         Assert.assertTrue(actual_matches > expected_matches);
-
+        addLogs("Results are greater than 1");
         homePage.getProductDetails();
         pricesLowToHigh = homePage.sortByLowest();
         homePage.comparePrices(pricesLowToHigh);
@@ -52,10 +45,10 @@ public class VerifySearchAndNavigationTests extends BaseTest {
             homePage.waitForSearchFld();
             String actual = homePage.getPageTitle();
             String expected = config[3];
-
+            addLogs("Actual " + actual);
+            addLogs("expected " + expected);
             Assert.assertTrue(actual.equalsIgnoreCase(expected));
             homePage.searchProduct(sc_01[1]);
-
             Integer expected_matches = util.getNum(sc_01[2]);
             Integer actual_matches = homePage.matchingResults();
             Assert.assertTrue(actual_matches > expected_matches);
@@ -65,18 +58,17 @@ public class VerifySearchAndNavigationTests extends BaseTest {
             homePage.navigatePages(4);
         }
     }
+
     @Test
     public void verifyTitle() {
         {
             homePage = navigateTo(config[1]);
             homePage.waitForSearchFld();
-            String actual = homePage.getPageTitle()+"test";
+            String actual = homePage.getPageTitle() + "test";
             String expected = config[3];
-
-            Assert.assertTrue(actual.equalsIgnoreCase(expected),"Title not matched");
+            addLogs("Actual " + actual);
+            addLogs("expected " + expected);
+            Assert.assertTrue(actual.equalsIgnoreCase(expected), "Title not matched");
         }
     }
-
-
-
 }

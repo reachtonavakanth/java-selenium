@@ -12,10 +12,14 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
-
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.json.JSONTokener;
 
 public class Utils {
 	
@@ -104,10 +108,8 @@ public class Utils {
 	 * @author:Navakanth
 	 * Description: To write logs to a external file
 	 */
-	public void log(String txt) {
-
+	public void writeToTxt(String txt) {
 		String msg = getDateTime()+ " "+Thread.currentThread().getStackTrace()[2].getClassName() + ":  " + txt;
-
 		String strFile = "logs";
 		File logFile = new File(strFile);
 		if (!logFile.exists()) {
@@ -123,7 +125,6 @@ public class Utils {
 		PrintWriter printWriter = new PrintWriter(fileWriter);
 		printWriter.println(msg);
 		printWriter.close();
-
 	}
 	
 	/*
@@ -135,4 +136,59 @@ public class Utils {
 	        Date date = new Date();
 	        return dateFormat.format(date);
 	    }
+
+	public Logger log() {
+		return LogManager.getLogger(Thread.currentThread().getStackTrace()[2].getClassName());
+	}
+
+	public String getJsonString(String path, String key) throws IOException {
+		InputStream inputstream = null;
+		JSONObject jsonObj = null;
+		try {
+			inputstream = new FileInputStream(path);
+			JSONTokener jsonTokener = new JSONTokener(inputstream);
+			jsonObj = new JSONObject(jsonTokener);
+		} catch (FileNotFoundException e) {
+			throw e;
+		} finally {
+			if (inputstream != null) {
+				inputstream.close();
+			}
+		}
+		return jsonObj.getString(key);
+	}
+
+	public JSONObject getJsonObject(String path, String key) throws IOException {
+		InputStream inputstream = null;
+		JSONObject jsonObj = null;
+		try {
+			inputstream = new FileInputStream(path);
+			JSONTokener jsonTokener = new JSONTokener(inputstream);
+			jsonObj = new JSONObject(jsonTokener);
+		} catch (FileNotFoundException e) {
+			throw e;
+		} finally {
+			if (inputstream != null) {
+				inputstream.close();
+			}
+		}
+		return jsonObj.getJSONObject(key);
+	}
+
+	public JSONArray getJsonArray(String path, String key) throws IOException {
+		InputStream inputstream = null;
+		JSONObject jsonObj = null;
+		try {
+			inputstream = new FileInputStream(path);
+			JSONTokener jsonTokener = new JSONTokener(inputstream);
+			jsonObj = new JSONObject(jsonTokener);
+		} catch (FileNotFoundException e) {
+			throw e;
+		} finally {
+			if (inputstream != null) {
+				inputstream.close();
+			}
+		}
+		return jsonObj.getJSONArray(key);
+	}
 }

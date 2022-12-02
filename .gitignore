@@ -2,7 +2,7 @@
 *.class
 
 # Log file
-*.log
+#*.log
 
 # BlueJ files
 *.ctxt
@@ -31,6 +31,6 @@ videos
 .DS_Store
 .idea/
 .zprofile
-*.html
+#*.html
 *.iml
-logs
+#logs
